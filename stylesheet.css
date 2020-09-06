@@ -62,6 +62,7 @@
     overflow: hidden;
     position: absolute;
     height: 80%;
+    max-height: 500px;
 }
 
 .slider>* {
