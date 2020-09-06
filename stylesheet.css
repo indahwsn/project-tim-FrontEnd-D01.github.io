@@ -198,6 +198,10 @@
         height: 65%;
     }
 	
+	.main {
+		height: 500px;
+	}
+	
 	/* footer */
 	footer {
 		margin-top: 50px;
